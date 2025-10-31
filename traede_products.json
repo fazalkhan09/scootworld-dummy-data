@@ -1,0 +1,125 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 1001,
+      "sku": "SW-BAR-001",
+      "name": "Striker Lux Scooter Bar",
+      "brand": "Striker",
+      "description": "Premium aluminum bar designed for high performance freestyle riding.",
+      "categories": ["Bars", "Scooter Parts"],
+      "attributes": { "material": "Aluminum", "outer_diameter_mm": 35, "color": "Black" },
+      "variants": [{ "id": 1, "price": 69.95, "ean": "5710000000001", "stock": 15 }]
+    },
+    {
+      "id": 1002,
+      "sku": "SW-BAR-002",
+      "name": "Striker Titanium Bar",
+      "brand": "Striker",
+      "description": "Ultra-light titanium bar with sleek polished finish.",
+      "categories": ["Bars", "Scooter Parts"],
+      "attributes": { "material": "Titanium", "outer_diameter_mm": 35, "color": "Polished" },
+      "variants": [{ "id": 2, "price": 139.00, "ean": "5710000000002", "stock": 8 }]
+    },
+    {
+      "id": 1003,
+      "sku": "SW-FORK-001",
+      "name": "Root AIR Fork",
+      "brand": "Root Industries",
+      "description": "Forged aluminum fork for IHC compression systems.",
+      "categories": ["Forks", "Scooter Parts"],
+      "attributes": { "material": "Aluminum", "wheel_size_mm": 120, "color": "Neochrome" },
+      "variants": [{ "id": 3, "price": 79.95, "ean": "5710000000003", "stock": 10 }]
+    },
+    {
+      "id": 1004,
+      "sku": "SW-FORK-002",
+      "name": "Ethic Legion Fork",
+      "brand": "Ethic",
+      "description": "Steel fork built for strength with SCS compression.",
+      "categories": ["Forks", "Scooter Parts"],
+      "attributes": { "material": "Steel", "wheel_size_mm": 125, "color": "Chrome" },
+      "variants": [{ "id": 4, "price": 59.95, "ean": "5710000000004", "stock": 12 }]
+    },
+    {
+      "id": 1005,
+      "sku": "SW-DECK-001",
+      "name": "North Horizon Deck",
+      "brand": "North",
+      "description": "Wide deck perfect for street riders.",
+      "categories": ["Decks"],
+      "attributes": { "material": "Aluminum", "width_mm": 152, "length_mm": 559, "color": "Black" },
+      "variants": [{ "id": 5, "price": 199.00, "ean": "5710000000005", "stock": 5 }]
+    },
+    {
+      "id": 1006,
+      "sku": "SW-DECK-002",
+      "name": "North Switchblade Deck",
+      "brand": "North",
+      "description": "Hybrid deck for park and street use.",
+      "categories": ["Decks"],
+      "attributes": { "material": "Aluminum", "width_mm": 125, "length_mm": 530, "color": "Blue" },
+      "variants": [{ "id": 6, "price": 179.00, "ean": "5710000000006", "stock": 6 }]
+    },
+    {
+      "id": 1007,
+      "sku": "SW-WHEEL-001",
+      "name": "River Glide Wheels",
+      "brand": "River",
+      "description": "High rebound urethane for smooth and fast rides.",
+      "categories": ["Wheels"],
+      "attributes": { "diameter_mm": 110, "core_material": "Aluminum", "color": "Black" },
+      "variants": [{ "id": 7, "price": 99.00, "ean": "5710000000007", "stock": 20 }]
+    },
+    {
+      "id": 1008,
+      "sku": "SW-WHEEL-002",
+      "name": "Envy Hollow Core Wheels",
+      "brand": "Envy",
+      "description": "Stylish hollow-core design wheels.",
+      "categories": ["Wheels"],
+      "attributes": { "diameter_mm": 120, "core_material": "Aluminum", "color": "Oil Slick" },
+      "variants": [{ "id": 8, "price": 89.00, "ean": "5710000000008", "stock": 16 }]
+    },
+    {
+      "id": 1009,
+      "sku": "SW-CLAMP-001",
+      "name": "Ethic DTC Clamp",
+      "brand": "Ethic",
+      "description": "Triple bolt aluminum clamp for oversized bars.",
+      "categories": ["Clamps"],
+      "attributes": { "material": "Aluminum", "bolts": 3, "color": "Silver" },
+      "variants": [{ "id": 9, "price": 29.00, "ean": "5710000000009", "stock": 25 }]
+    },
+    {
+      "id": 1010,
+      "sku": "SW-GRIP-001",
+      "name": "ODI Soft Grips",
+      "brand": "ODI",
+      "description": "Soft rubber grips providing comfort and control.",
+      "categories": ["Grips"],
+      "attributes": { "material": "Rubber", "length_mm": 160, "color": "Red" },
+      "variants": [{ "id": 10, "price": 14.99, "ean": "5710000000010", "stock": 40 }]
+    },
+    {
+      "id": 1011,
+      "sku": "SW-BEARING-001",
+      "name": "Envy ABEC-9 Bearings",
+      "brand": "Envy",
+      "description": "High precision steel bearings for speed and smoothness.",
+      "categories": ["Bearings"],
+      "attributes": { "grade": "ABEC-9", "material": "Steel", "color": "Silver" },
+      "variants": [{ "id": 11, "price": 19.99, "ean": "5710000000011", "stock": 50 }]
+    },
+    {
+      "id": 1012,
+      "sku": "SW-GRIPTAPE-001",
+      "name": "Root Grip Tape",
+      "brand": "Root Industries",
+      "description": "Durable grip tape for better deck traction.",
+      "categories": ["Grip Tape"],
+      "attributes": { "material": "Silicon Carbide", "length_mm": 580, "color": "Black" },
+      "variants": [{ "id": 12, "price": 9.99, "ean": "5710000000012", "stock": 60 }]
+    }
+  ]
+}

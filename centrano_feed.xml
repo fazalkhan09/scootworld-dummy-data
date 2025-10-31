@@ -1,0 +1,186 @@
+<products>
+  <product>
+    <sku>SW-BAR-001</sku>
+    <brand>Striker</brand>
+    <name>Striker Lux Scooter Bar</name>
+    <description>Lightweight aluminum scooter bar for pro riders</description>
+    <price>64.95</price>
+    <attributes>
+      <material>Aluminum</material>
+      <outer_diameter_mm>34.9</outer_diameter_mm>
+      <inner_diameter_mm>31.8</inner_diameter_mm>
+      <weight_g>950</weight_g>
+      <clamp_size>Double</clamp_size>
+      <compression_type>IHC</compression_type>
+      <color>Black</color>
+    </attributes>
+  </product>
+
+  <product>
+    <sku>SW-BAR-002</sku>
+    <brand>Striker</brand>
+    <name>Striker Titanium Bar</name>
+    <description>Ultra-light titanium bar with polished finish</description>
+    <price>129.00</price>
+    <attributes>
+      <material>Titanium</material>
+      <outer_diameter_mm>34.9</outer_diameter_mm>
+      <inner_diameter_mm>31.8</inner_diameter_mm>
+      <weight_g>750</weight_g>
+      <clamp_size>Double</clamp_size>
+      <compression_type>IHC</compression_type>
+      <color>Polished</color>
+    </attributes>
+  </product>
+
+  <product>
+    <sku>SW-FORK-001</sku>
+    <brand>Root Industries</brand>
+    <name>Root AIR Fork</name>
+    <description>Forged aluminum fork designed for IHC compression systems</description>
+    <price>79.95</price>
+    <attributes>
+      <material>Aluminum</material>
+      <axle_diameter_mm>8</axle_diameter_mm>
+      <compression_type>IHC</compression_type>
+      <weight_g>300</weight_g>
+      <wheel_size_mm>120</wheel_size_mm>
+      <color>Neochrome</color>
+    </attributes>
+  </product>
+
+  <product>
+    <sku>SW-FORK-002</sku>
+    <brand>Ethic</brand>
+    <name>Ethic Legion Fork</name>
+    <description>Light and durable steel fork suitable for SCS compression</description>
+    <price>59.95</price>
+    <attributes>
+      <material>Steel</material>
+      <axle_diameter_mm>8</axle_diameter_mm>
+      <compression_type>SCS</compression_type>
+      <weight_g>400</weight_g>
+      <wheel_size_mm>125</wheel_size_mm>
+      <color>Chrome</color>
+    </attributes>
+  </product>
+
+  <product>
+    <sku>SW-DECK-001</sku>
+    <brand>North</brand>
+    <name>North Horizon Deck</name>
+    <description>Wide lightweight deck ideal for street riding</description>
+    <price>199.00</price>
+    <attributes>
+      <length_mm>559</length_mm>
+      <width_mm>152</width_mm>
+      <weight_g>1800</weight_g>
+      <headtube_angle_deg>83</headtube_angle_deg>
+      <material>Aluminum</material>
+      <color>Black</color>
+    </attributes>
+  </product>
+
+  <product>
+    <sku>SW-DECK-002</sku>
+    <brand>North</brand>
+    <name>North Switchblade Deck</name>
+    <description>Durable deck for park and hybrid riders</description>
+    <price>179.00</price>
+    <attributes>
+      <length_mm>530</length_mm>
+      <width_mm>125</width_mm>
+      <weight_g>1600</weight_g>
+      <headtube_angle_deg>83</headtube_angle_deg>
+      <material>Aluminum</material>
+      <color>Blue</color>
+    </attributes>
+  </product>
+
+  <product>
+    <sku>SW-WHEEL-001</sku>
+    <brand>River</brand>
+    <name>River Glide Wheels</name>
+    <description>High rebound urethane wheels for smooth ride</description>
+    <price>99.00</price>
+    <attributes>
+      <diameter_mm>110</diameter_mm>
+      <width_mm>24</width_mm>
+      <core_material>Aluminum</core_material>
+      <bearing>ABEC-9</bearing>
+      <weight_g>240</weight_g>
+      <color>Black</color>
+    </attributes>
+  </product>
+
+  <product>
+    <sku>SW-WHEEL-002</sku>
+    <brand>Envy</brand>
+    <name>Envy Hollow Core Wheels</name>
+    <description>Strong hollow-core design with stylish finish</description>
+    <price>89.00</price>
+    <attributes>
+      <diameter_mm>120</diameter_mm>
+      <width_mm>26</width_mm>
+      <core_material>Aluminum</core_material>
+      <bearing>ABEC-11</bearing>
+      <weight_g>230</weight_g>
+      <color>Oil Slick</color>
+    </attributes>
+  </product>
+
+  <product>
+    <sku>SW-CLAMP-001</sku>
+    <brand>Ethic</brand>
+    <name>Ethic DTC Clamp</name>
+    <description>Triple bolt aluminum clamp suitable for oversized bars</description>
+    <price>29.00</price>
+    <attributes>
+      <bolts>3</bolts>
+      <bar_compatibility>Oversized</bar_compatibility>
+      <material>Aluminum</material>
+      <color>Silver</color>
+    </attributes>
+  </product>
+
+  <product>
+    <sku>SW-GRIP-001</sku>
+    <brand>ODI</brand>
+    <name>ODI Soft Grips</name>
+    <description>Comfortable and shock-absorbing scooter grips</description>
+    <price>14.99</price>
+    <attributes>
+      <length_mm>160</length_mm>
+      <material>Rubber</material>
+      <color>Red</color>
+    </attributes>
+  </product>
+
+  <product>
+    <sku>SW-BEARING-001</sku>
+    <brand>Envy</brand>
+    <name>Envy ABEC-9 Bearings</name>
+    <description>High-speed precision bearings with spacers</description>
+    <price>19.99</price>
+    <attributes>
+      <grade>ABEC-9</grade>
+      <material>Steel</material>
+      <color>Silver</color>
+      <weight_g>60</weight_g>
+    </attributes>
+  </product>
+
+  <product>
+    <sku>SW-GRIPTAPE-001</sku>
+    <brand>Root Industries</brand>
+    <name>Root Grip Tape</name>
+    <description>Durable grip tape with strong adhesive backing</description>
+    <price>9.99</price>
+    <attributes>
+      <length_mm>580</length_mm>
+      <width_mm>150</width_mm>
+      <color>Black</color>
+      <material>Silicon Carbide</material>
+    </attributes>
+  </product>
+</products>

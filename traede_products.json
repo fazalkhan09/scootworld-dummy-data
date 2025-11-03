@@ -9,7 +9,8 @@
       "description": "Premium aluminum bar designed for high performance freestyle riding.",
       "categories": ["Bars", "Scooter Parts"],
       "attributes": { "material": "Aluminum", "outer_diameter_mm": 35, "color": "Black" },
-      "variants": [{ "id": 1, "price": 69.95, "ean": "5710000000001", "stock": 15 }]
+      "variants": [{ "id": 1, "price": 69.95, "ean": "5710000000001", "stock": 15 }],
+      "has_slit": true
     },
     {
       "id": 1002,
@@ -19,7 +20,8 @@
       "description": "Ultra-light titanium bar with sleek polished finish.",
       "categories": ["Bars", "Scooter Parts"],
       "attributes": { "material": "Titanium", "outer_diameter_mm": 35, "color": "Polished" },
-      "variants": [{ "id": 2, "price": 139.00, "ean": "5710000000002", "stock": 8 }]
+      "variants": [{ "id": 2, "price": 139.00, "ean": "5710000000002", "stock": 8 }],
+      "has_slit": false
     },
     {
       "id": 1003,
@@ -29,7 +31,8 @@
       "description": "Forged aluminum fork for IHC compression systems.",
       "categories": ["Forks", "Scooter Parts"],
       "attributes": { "material": "Aluminum", "wheel_size_mm": 120, "color": "Neochrome" },
-      "variants": [{ "id": 3, "price": 79.95, "ean": "5710000000003", "stock": 10 }]
+      "variants": [{ "id": 3, "price": 79.95, "ean": "5710000000003", "stock": 10 }],
+      "has_slit": false
     },
     {
       "id": 1004,
@@ -39,7 +42,8 @@
       "description": "Steel fork built for strength with SCS compression.",
       "categories": ["Forks", "Scooter Parts"],
       "attributes": { "material": "Steel", "wheel_size_mm": 125, "color": "Chrome" },
-      "variants": [{ "id": 4, "price": 59.95, "ean": "5710000000004", "stock": 12 }]
+      "variants": [{ "id": 4, "price": 59.95, "ean": "5710000000004", "stock": 12 }],
+      "has_slit": false
     },
     {
       "id": 1005,
@@ -49,7 +53,8 @@
       "description": "Wide deck perfect for street riders.",
       "categories": ["Decks"],
       "attributes": { "material": "Aluminum", "width_mm": 152, "length_mm": 559, "color": "Black" },
-      "variants": [{ "id": 5, "price": 199.00, "ean": "5710000000005", "stock": 5 }]
+      "variants": [{ "id": 5, "price": 199.00, "ean": "5710000000005", "stock": 5 }],
+      "has_slit": false
     },
     {
       "id": 1006,
@@ -59,7 +64,8 @@
       "description": "Hybrid deck for park and street use.",
       "categories": ["Decks"],
       "attributes": { "material": "Aluminum", "width_mm": 125, "length_mm": 530, "color": "Blue" },
-      "variants": [{ "id": 6, "price": 179.00, "ean": "5710000000006", "stock": 6 }]
+      "variants": [{ "id": 6, "price": 179.00, "ean": "5710000000006", "stock": 6 }],
+      "has_slit": false
     },
     {
       "id": 1007,
@@ -69,7 +75,8 @@
       "description": "High rebound urethane for smooth and fast rides.",
       "categories": ["Wheels"],
       "attributes": { "diameter_mm": 110, "core_material": "Aluminum", "color": "Black" },
-      "variants": [{ "id": 7, "price": 99.00, "ean": "5710000000007", "stock": 20 }]
+      "variants": [{ "id": 7, "price": 99.00, "ean": "5710000000007", "stock": 20 }],
+      "has_slit": false
     },
     {
       "id": 1008,
@@ -79,7 +86,8 @@
       "description": "Stylish hollow-core design wheels.",
       "categories": ["Wheels"],
       "attributes": { "diameter_mm": 120, "core_material": "Aluminum", "color": "Oil Slick" },
-      "variants": [{ "id": 8, "price": 89.00, "ean": "5710000000008", "stock": 16 }]
+      "variants": [{ "id": 8, "price": 89.00, "ean": "5710000000008", "stock": 16 }],
+      "has_slit": false
     },
     {
       "id": 1009,
@@ -89,7 +97,8 @@
       "description": "Triple bolt aluminum clamp for oversized bars.",
       "categories": ["Clamps"],
       "attributes": { "material": "Aluminum", "bolts": 3, "color": "Silver" },
-      "variants": [{ "id": 9, "price": 29.00, "ean": "5710000000009", "stock": 25 }]
+      "variants": [{ "id": 9, "price": 29.00, "ean": "5710000000009", "stock": 25 }],
+      "has_slit": false
     },
     {
       "id": 1010,
@@ -99,7 +108,8 @@
       "description": "Soft rubber grips providing comfort and control.",
       "categories": ["Grips"],
       "attributes": { "material": "Rubber", "length_mm": 160, "color": "Red" },
-      "variants": [{ "id": 10, "price": 14.99, "ean": "5710000000010", "stock": 40 }]
+      "variants": [{ "id": 10, "price": 14.99, "ean": "5710000000010", "stock": 40 }],
+      "has_slit": false
     },
     {
       "id": 1011,
@@ -109,7 +119,8 @@
       "description": "High precision steel bearings for speed and smoothness.",
       "categories": ["Bearings"],
       "attributes": { "grade": "ABEC-9", "material": "Steel", "color": "Silver" },
-      "variants": [{ "id": 11, "price": 19.99, "ean": "5710000000011", "stock": 50 }]
+      "variants": [{ "id": 11, "price": 19.99, "ean": "5710000000011", "stock": 50 }],
+      "has_slit": false
     },
     {
       "id": 1012,
@@ -119,7 +130,8 @@
       "description": "Durable grip tape for better deck traction.",
       "categories": ["Grip Tape"],
       "attributes": { "material": "Silicon Carbide", "length_mm": 580, "color": "Black" },
-      "variants": [{ "id": 12, "price": 9.99, "ean": "5710000000012", "stock": 60 }]
+      "variants": [{ "id": 12, "price": 9.99, "ean": "5710000000012", "stock": 60 }],
+      "has_slit": false
     },
     {
       "id": 1013,
@@ -129,7 +141,8 @@
       "description": "Sealed bearings headset for smooth bar spins.",
       "categories": ["Headsets"],
       "attributes": { "material": "Aluminum", "type": "Integrated", "color": "Blue" },
-      "variants": [{ "id": 13, "price": 24.99, "ean": "5710000000013", "stock": 30 }]
+      "variants": [{ "id": 13, "price": 24.99, "ean": "5710000000013", "stock": 30 }],
+      "has_slit": false
     },
     {
       "id": 1014,
@@ -139,7 +152,8 @@
       "description": "Durable steel fender brake fits most decks.",
       "categories": ["Brakes"],
       "attributes": { "material": "Steel", "weight_g": 120, "color": "Black" },
-      "variants": [{ "id": 14, "price": 19.50, "ean": "5710000000014", "stock": 22 }]
+      "variants": [{ "id": 14, "price": 19.50, "ean": "5710000000014", "stock": 22 }],
+      "has_slit": false
     },
     {
       "id": 1015,
@@ -149,7 +163,8 @@
       "description": "Lightweight pegs for grinding and tricks.",
       "categories": ["Pegs"],
       "attributes": { "material": "Aluminum", "length_mm": 50, "color": "Silver" },
-      "variants": [{ "id": 15, "price": 34.00, "ean": "5710000000015", "stock": 18 }]
+      "variants": [{ "id": 15, "price": 34.00, "ean": "5710000000015", "stock": 18 }],
+      "has_slit": false
     },
     {
       "id": 1016,
@@ -159,7 +174,8 @@
       "description": "Classic longneck design for superior control.",
       "categories": ["Grips"],
       "attributes": { "material": "Rubber", "length_mm": 165, "color": "Blue" },
-      "variants": [{ "id": 16, "price": 15.49, "ean": "5710000000016", "stock": 45 }]
+      "variants": [{ "id": 16, "price": 15.49, "ean": "5710000000016", "stock": 45 }],
+      "has_slit": false
     },
     {
       "id": 1017,
@@ -169,7 +185,8 @@
       "description": "High-quality urethane with strong aluminum core.",
       "categories": ["Wheels"],
       "attributes": { "diameter_mm": 115, "core_material": "Aluminum", "color": "White" },
-      "variants": [{ "id": 17, "price": 94.00, "ean": "5710000000017", "stock": 14 }]
+      "variants": [{ "id": 17, "price": 94.00, "ean": "5710000000017", "stock": 14 }],
+      "has_slit": false
     },
     {
       "id": 1018,
@@ -179,7 +196,8 @@
       "description": "Street-oriented deck with boxed ends for stability.",
       "categories": ["Decks"],
       "attributes": { "material": "Aluminum", "width_mm": 152, "length_mm": 584, "color": "Raw" },
-      "variants": [{ "id": 18, "price": 229.99, "ean": "5710000000018", "stock": 7 }]
+      "variants": [{ "id": 18, "price": 229.99, "ean": "5710000000018", "stock": 7 }],
+      "has_slit": false
     },
     {
       "id": 1019,
@@ -189,7 +207,8 @@
       "description": "Solid SCS clamp for compression systems.",
       "categories": ["Clamps"],
       "attributes": { "material": "Aluminum", "bolts": 4, "color": "Black" },
-      "variants": [{ "id": 19, "price": 49.95, "ean": "5710000000019", "stock": 10 }]
+      "variants": [{ "id": 19, "price": 49.95, "ean": "5710000000019", "stock": 10 }],
+      "has_slit": false
     },
     {
       "id": 1020,
@@ -199,7 +218,8 @@
       "description": "Lightweight CNC aluminum fork with HIC compatibility.",
       "categories": ["Forks"],
       "attributes": { "material": "Aluminum", "wheel_size_mm": 120, "color": "Gold" },
-      "variants": [{ "id": 20, "price": 84.95, "ean": "5710000000020", "stock": 9 }]
+      "variants": [{ "id": 20, "price": 84.95, "ean": "5710000000020", "stock": 9 }],
+      "has_slit": false
     },
     {
       "id": 1021,
@@ -209,7 +229,8 @@
       "description": "Steel T-bar for park and street riders.",
       "categories": ["Bars"],
       "attributes": { "material": "Steel", "outer_diameter_mm": 32, "color": "Chrome" },
-      "variants": [{ "id": 21, "price": 54.99, "ean": "5710000000021", "stock": 13 }]
+      "variants": [{ "id": 21, "price": 54.99, "ean": "5710000000021", "stock": 13 }],
+      "has_slit": false
     },
     {
       "id": 1022,
@@ -219,7 +240,8 @@
       "description": "Durable grip tape with classic logo design.",
       "categories": ["Grip Tape"],
       "attributes": { "material": "Silicon Carbide", "length_mm": 600, "color": "Black/Yellow" },
-      "variants": [{ "id": 22, "price": 10.50, "ean": "5710000000022", "stock": 55 }]
+      "variants": [{ "id": 22, "price": 10.50, "ean": "5710000000022", "stock": 55 }],
+      "has_slit": false
     },
     {
       "id": 1023,
@@ -229,7 +251,8 @@
       "description": "Top-tier ceramic bearings for unmatched smoothness.",
       "categories": ["Bearings"],
       "attributes": { "grade": "Ceramic", "material": "Ceramic", "color": "White" },
-      "variants": [{ "id": 23, "price": 29.99, "ean": "5710000000023", "stock": 28 }]
+      "variants": [{ "id": 23, "price": 29.99, "ean": "5710000000023", "stock": 28 }],
+      "has_slit": false
     },
     {
       "id": 1024,
@@ -239,7 +262,8 @@
       "description": "Soft ergonomic grips for enhanced comfort.",
       "categories": ["Grips"],
       "attributes": { "material": "Rubber", "length_mm": 155, "color": "Green" },
-      "variants": [{ "id": 24, "price": 13.99, "ean": "5710000000024", "stock": 35 }]
+      "variants": [{ "id": 24, "price": 13.99, "ean": "5710000000024", "stock": 35 }],
+      "has_slit": false
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "count": 12,
+  "count": 24,
   "results": [
     {
       "id": 1001,
@@ -120,6 +120,126 @@
       "categories": ["Grip Tape"],
       "attributes": { "material": "Silicon Carbide", "length_mm": 580, "color": "Black" },
       "variants": [{ "id": 12, "price": 9.99, "ean": "5710000000012", "stock": 60 }]
+    },
+    {
+      "id": 1013,
+      "sku": "SW-HEADSET-001",
+      "name": "Fasen Integrated Headset",
+      "brand": "Fasen",
+      "description": "Sealed bearings headset for smooth bar spins.",
+      "categories": ["Headsets"],
+      "attributes": { "material": "Aluminum", "type": "Integrated", "color": "Blue" },
+      "variants": [{ "id": 13, "price": 24.99, "ean": "5710000000013", "stock": 30 }]
+    },
+    {
+      "id": 1014,
+      "sku": "SW-BRAKE-001",
+      "name": "Tilt Flex Fender Brake",
+      "brand": "Tilt",
+      "description": "Durable steel fender brake fits most decks.",
+      "categories": ["Brakes"],
+      "attributes": { "material": "Steel", "weight_g": 120, "color": "Black" },
+      "variants": [{ "id": 14, "price": 19.50, "ean": "5710000000014", "stock": 22 }]
+    },
+    {
+      "id": 1015,
+      "sku": "SW-PEG-001",
+      "name": "Proto Scooter Pegs",
+      "brand": "Proto",
+      "description": "Lightweight pegs for grinding and tricks.",
+      "categories": ["Pegs"],
+      "attributes": { "material": "Aluminum", "length_mm": 50, "color": "Silver" },
+      "variants": [{ "id": 15, "price": 34.00, "ean": "5710000000015", "stock": 18 }]
+    },
+    {
+      "id": 1016,
+      "sku": "SW-GRIP-002",
+      "name": "ODI Longneck Pro Grips",
+      "brand": "ODI",
+      "description": "Classic longneck design for superior control.",
+      "categories": ["Grips"],
+      "attributes": { "material": "Rubber", "length_mm": 165, "color": "Blue" },
+      "variants": [{ "id": 16, "price": 15.49, "ean": "5710000000016", "stock": 45 }]
+    },
+    {
+      "id": 1017,
+      "sku": "SW-WHEEL-003",
+      "name": "North Signal Wheels",
+      "brand": "North",
+      "description": "High-quality urethane with strong aluminum core.",
+      "categories": ["Wheels"],
+      "attributes": { "diameter_mm": 115, "core_material": "Aluminum", "color": "White" },
+      "variants": [{ "id": 17, "price": 94.00, "ean": "5710000000017", "stock": 14 }]
+    },
+    {
+      "id": 1018,
+      "sku": "SW-DECK-003",
+      "name": "Tilt Theory 3 Deck",
+      "brand": "Tilt",
+      "description": "Street-oriented deck with boxed ends for stability.",
+      "categories": ["Decks"],
+      "attributes": { "material": "Aluminum", "width_mm": 152, "length_mm": 584, "color": "Raw" },
+      "variants": [{ "id": 18, "price": 229.99, "ean": "5710000000018", "stock": 7 }]
+    },
+    {
+      "id": 1019,
+      "sku": "SW-CLAMP-002",
+      "name": "Tilt SCS Clamp",
+      "brand": "Tilt",
+      "description": "Solid SCS clamp for compression systems.",
+      "categories": ["Clamps"],
+      "attributes": { "material": "Aluminum", "bolts": 4, "color": "Black" },
+      "variants": [{ "id": 19, "price": 49.95, "ean": "5710000000019", "stock": 10 }]
+    },
+    {
+      "id": 1020,
+      "sku": "SW-FORK-003",
+      "name": "North Amber Fork",
+      "brand": "North",
+      "description": "Lightweight CNC aluminum fork with HIC compatibility.",
+      "categories": ["Forks"],
+      "attributes": { "material": "Aluminum", "wheel_size_mm": 120, "color": "Gold" },
+      "variants": [{ "id": 20, "price": 84.95, "ean": "5710000000020", "stock": 9 }]
+    },
+    {
+      "id": 1021,
+      "sku": "SW-BAR-003",
+      "name": "Ethic Dynasty Bar",
+      "brand": "Ethic",
+      "description": "Steel T-bar for park and street riders.",
+      "categories": ["Bars"],
+      "attributes": { "material": "Steel", "outer_diameter_mm": 32, "color": "Chrome" },
+      "variants": [{ "id": 21, "price": 54.99, "ean": "5710000000021", "stock": 13 }]
+    },
+    {
+      "id": 1022,
+      "sku": "SW-GRIPTAPE-002",
+      "name": "Hella Grip Classic Tape",
+      "brand": "Hella Grip",
+      "description": "Durable grip tape with classic logo design.",
+      "categories": ["Grip Tape"],
+      "attributes": { "material": "Silicon Carbide", "length_mm": 600, "color": "Black/Yellow" },
+      "variants": [{ "id": 22, "price": 10.50, "ean": "5710000000022", "stock": 55 }]
+    },
+    {
+      "id": 1023,
+      "sku": "SW-BEARING-002",
+      "name": "Root Industries Ceramic Bearings",
+      "brand": "Root Industries",
+      "description": "Top-tier ceramic bearings for unmatched smoothness.",
+      "categories": ["Bearings"],
+      "attributes": { "grade": "Ceramic", "material": "Ceramic", "color": "White" },
+      "variants": [{ "id": 23, "price": 29.99, "ean": "5710000000023", "stock": 28 }]
+    },
+    {
+      "id": 1024,
+      "sku": "SW-GRIP-003",
+      "name": "Fasen Pro Grips",
+      "brand": "Fasen",
+      "description": "Soft ergonomic grips for enhanced comfort.",
+      "categories": ["Grips"],
+      "attributes": { "material": "Rubber", "length_mm": 155, "color": "Green" },
+      "variants": [{ "id": 24, "price": 13.99, "ean": "5710000000024", "stock": 35 }]
     }
   ]
 }

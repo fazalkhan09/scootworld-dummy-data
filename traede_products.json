@@ -1,269 +1,587 @@
 {
-  "count": 24,
-  "results": [
+  "products": [
     {
-      "id": 1001,
-      "sku": "SW-BAR-001",
-      "name": "Striker Lux Scooter Bar",
+      "id": 2001,
+      "sku": "SW-BAR-101",
+      "name": "Striker Lux V2 Bar",
       "brand": "Striker",
-      "description": "Premium aluminum bar designed for high performance freestyle riding.",
+      "description": "Lightweight aluminum bar for freestyle scooters with improved balance.",
       "categories": ["Bars", "Scooter Parts"],
-      "attributes": { "material": "Aluminum", "outer_diameter_mm": 35, "color": "Black" },
-      "variants": [{ "id": 1, "price": 69.95, "ean": "5710000000001", "stock": 15 }],
-      "has_slit": true
+      "price": 69.95,
+      "currency": "EUR",
+      "images": [
+        "https://cdn.scootworld.com/images/striker_lux_v2_bar_1.jpg",
+        "https://cdn.scootworld.com/images/striker_lux_v2_bar_2.jpg"
+      ],
+      "attributes": {
+        "material": "Aluminum",
+        "color": "Black",
+        "weight_g": 980,
+        "outer_diameter_mm": 35,
+        "inner_diameter_mm": 31.8,
+        "clamp_size": "Double",
+        "compression_type": "IHC"
+      },
+      "variants": [
+        {
+          "id": 301,
+          "sku": "SW-BAR-101-V1",
+          "ean": "5712000000001",
+          "price": 69.95,
+          "stock": 18
+        }
+      ],
+      "created_at": "2025-10-30T08:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1002,
-      "sku": "SW-BAR-002",
-      "name": "Striker Titanium Bar",
-      "brand": "Striker",
-      "description": "Ultra-light titanium bar with sleek polished finish.",
-      "categories": ["Bars", "Scooter Parts"],
-      "attributes": { "material": "Titanium", "outer_diameter_mm": 35, "color": "Polished" },
-      "variants": [{ "id": 2, "price": 139.00, "ean": "5710000000002", "stock": 8 }],
-      "has_slit": false
-    },
-    {
-      "id": 1003,
-      "sku": "SW-FORK-001",
-      "name": "Root AIR Fork",
-      "brand": "Root Industries",
-      "description": "Forged aluminum fork for IHC compression systems.",
-      "categories": ["Forks", "Scooter Parts"],
-      "attributes": { "material": "Aluminum", "wheel_size_mm": 120, "color": "Neochrome" },
-      "variants": [{ "id": 3, "price": 79.95, "ean": "5710000000003", "stock": 10 }],
-      "has_slit": false
-    },
-    {
-      "id": 1004,
-      "sku": "SW-FORK-002",
-      "name": "Ethic Legion Fork",
+      "id": 2002,
+      "sku": "SW-BAR-102",
+      "name": "Ethic Dynasty Titanium Bar",
       "brand": "Ethic",
-      "description": "Steel fork built for strength with SCS compression.",
+      "description": "Ultra-light titanium T-bar for advanced riders.",
+      "categories": ["Bars", "Scooter Parts"],
+      "price": 149.0,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/ethic_dynasty_ti_bar_1.jpg"],
+      "attributes": {
+        "material": "Titanium",
+        "color": "Raw",
+        "weight_g": 750,
+        "outer_diameter_mm": 35,
+        "inner_diameter_mm": 31.8,
+        "clamp_size": "Oversized",
+        "compression_type": "SCS"
+      },
+      "variants": [
+        {
+          "id": 302,
+          "sku": "SW-BAR-102-V1",
+          "ean": "5712000000002",
+          "price": 149.0,
+          "stock": 7
+        }
+      ],
+      "created_at": "2025-10-31T09:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
+    },
+    {
+      "id": 2003,
+      "sku": "SW-DECK-101",
+      "name": "North Horizon Deck V2",
+      "brand": "North",
+      "description": "Wide 6-inch aluminum deck for technical street riding.",
+      "categories": ["Decks"],
+      "price": 199.0,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/north_horizon_v2_deck_1.jpg"],
+      "attributes": {
+        "material": "Aluminum",
+        "color": "Black",
+        "weight_g": 1800,
+        "width_mm": 152,
+        "length_mm": 580
+      },
+      "variants": [
+        {
+          "id": 303,
+          "sku": "SW-DECK-101-V1",
+          "ean": "5712000000003",
+          "price": 199.0,
+          "stock": 10
+        }
+      ],
+      "created_at": "2025-10-25T08:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
+    },
+    {
+      "id": 2004,
+      "sku": "SW-FORK-101",
+      "name": "Tilt Tomahawk Fork",
+      "brand": "Tilt",
+      "description": "CNC aluminum fork compatible with SCS compression.",
       "categories": ["Forks", "Scooter Parts"],
-      "attributes": { "material": "Steel", "wheel_size_mm": 125, "color": "Chrome" },
-      "variants": [{ "id": 4, "price": 59.95, "ean": "5710000000004", "stock": 12 }],
-      "has_slit": false
+      "price": 89.95,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/tilt_tomahawk_fork_1.jpg"],
+      "attributes": {
+        "material": "Aluminum",
+        "color": "Chrome",
+        "weight_g": 320,
+        "compression_type": "SCS"
+      },
+      "variants": [
+        {
+          "id": 304,
+          "sku": "SW-FORK-101-V1",
+          "ean": "5712000000004",
+          "price": 89.95,
+          "stock": 14
+        }
+      ],
+      "created_at": "2025-10-29T08:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1005,
-      "sku": "SW-DECK-001",
-      "name": "North Horizon Deck",
-      "brand": "North",
-      "description": "Wide deck perfect for street riders.",
-      "categories": ["Decks"],
-      "attributes": { "material": "Aluminum", "width_mm": 152, "length_mm": 559, "color": "Black" },
-      "variants": [{ "id": 5, "price": 199.00, "ean": "5710000000005", "stock": 5 }],
-      "has_slit": false
-    },
-    {
-      "id": 1006,
-      "sku": "SW-DECK-002",
-      "name": "North Switchblade Deck",
-      "brand": "North",
-      "description": "Hybrid deck for park and street use.",
-      "categories": ["Decks"],
-      "attributes": { "material": "Aluminum", "width_mm": 125, "length_mm": 530, "color": "Blue" },
-      "variants": [{ "id": 6, "price": 179.00, "ean": "5710000000006", "stock": 6 }],
-      "has_slit": false
-    },
-    {
-      "id": 1007,
-      "sku": "SW-WHEEL-001",
-      "name": "River Glide Wheels",
+      "id": 2005,
+      "sku": "SW-WHEEL-101",
+      "name": "River Rapid Wheels 110mm",
       "brand": "River",
-      "description": "High rebound urethane for smooth and fast rides.",
+      "description": "High rebound 88A urethane for fast, smooth riding.",
       "categories": ["Wheels"],
-      "attributes": { "diameter_mm": 110, "core_material": "Aluminum", "color": "Black" },
-      "variants": [{ "id": 7, "price": 99.00, "ean": "5710000000007", "stock": 20 }],
-      "has_slit": false
+      "price": 99.0,
+      "currency": "EUR",
+      "images": [
+        "https://cdn.scootworld.com/images/river_rapid_wheel_1.jpg",
+        "https://cdn.scootworld.com/images/river_rapid_wheel_2.jpg"
+      ],
+      "attributes": {
+        "material": "Aluminum Core",
+        "core_material": "Aluminum",
+        "color": "Black",
+        "weight_g": 240,
+        "diameter_mm": 110,
+        "urethane_hardness": "88A"
+      },
+      "variants": [
+        {
+          "id": 305,
+          "sku": "SW-WHEEL-101-V1",
+          "ean": "5712000000005",
+          "price": 99.0,
+          "stock": 22
+        }
+      ],
+      "created_at": "2025-10-25T08:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1008,
-      "sku": "SW-WHEEL-002",
-      "name": "Envy Hollow Core Wheels",
+      "id": 2006,
+      "sku": "SW-CLAMP-101",
+      "name": "Envy SCS Clamp",
       "brand": "Envy",
-      "description": "Stylish hollow-core design wheels.",
-      "categories": ["Wheels"],
-      "attributes": { "diameter_mm": 120, "core_material": "Aluminum", "color": "Oil Slick" },
-      "variants": [{ "id": 8, "price": 89.00, "ean": "5710000000008", "stock": 16 }],
-      "has_slit": false
-    },
-    {
-      "id": 1009,
-      "sku": "SW-CLAMP-001",
-      "name": "Ethic DTC Clamp",
-      "brand": "Ethic",
-      "description": "Triple bolt aluminum clamp for oversized bars.",
+      "description": "Durable SCS clamp for oversized scooter bars.",
       "categories": ["Clamps"],
-      "attributes": { "material": "Aluminum", "bolts": 3, "color": "Silver" },
-      "variants": [{ "id": 9, "price": 29.00, "ean": "5710000000009", "stock": 25 }],
-      "has_slit": false
+      "price": 34.95,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/envy_scs_clamp_1.jpg"],
+      "attributes": {
+        "material": "Aluminum",
+        "color": "Oil Slick",
+        "weight_g": 120,
+        "clamp_size": "Oversized"
+      },
+      "variants": [
+        {
+          "id": 306,
+          "sku": "SW-CLAMP-101-V1",
+          "ean": "5712000000006",
+          "price": 34.95,
+          "stock": 30
+        }
+      ],
+      "created_at": "2025-10-27T10:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1010,
-      "sku": "SW-GRIP-001",
-      "name": "ODI Soft Grips",
-      "brand": "ODI",
-      "description": "Soft rubber grips providing comfort and control.",
-      "categories": ["Grips"],
-      "attributes": { "material": "Rubber", "length_mm": 160, "color": "Red" },
-      "variants": [{ "id": 10, "price": 14.99, "ean": "5710000000010", "stock": 40 }],
-      "has_slit": false
-    },
-    {
-      "id": 1011,
-      "sku": "SW-BEARING-001",
-      "name": "Envy ABEC-9 Bearings",
-      "brand": "Envy",
-      "description": "High precision steel bearings for speed and smoothness.",
-      "categories": ["Bearings"],
-      "attributes": { "grade": "ABEC-9", "material": "Steel", "color": "Silver" },
-      "variants": [{ "id": 11, "price": 19.99, "ean": "5710000000011", "stock": 50 }],
-      "has_slit": false
-    },
-    {
-      "id": 1012,
-      "sku": "SW-GRIPTAPE-001",
-      "name": "Root Grip Tape",
+      "id": 2007,
+      "sku": "SW-BEARING-101",
+      "name": "Root Industries ABEC-9 Bearings",
       "brand": "Root Industries",
-      "description": "Durable grip tape for better deck traction.",
+      "description": "High-precision steel bearings for smooth rolling performance.",
+      "categories": ["Bearings"],
+      "price": 19.99,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/root_abec9_bearings_1.jpg"],
+      "attributes": {
+        "material": "Steel",
+        "color": "Silver",
+        "weight_g": 55
+      },
+      "variants": [
+        {
+          "id": 307,
+          "sku": "SW-BEARING-101-V1",
+          "ean": "5712000000007",
+          "price": 19.99,
+          "stock": 50
+        }
+      ],
+      "created_at": "2025-10-28T08:30:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
+    },
+    {
+      "id": 2008,
+      "sku": "SW-GRIP-101",
+      "name": "ODI Longneck Soft Grips",
+      "brand": "ODI",
+      "description": "Comfortable rubber grips with longneck design for better control.",
+      "categories": ["Grips"],
+      "price": 13.99,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/odi_longneck_grips_1.jpg"],
+      "attributes": {
+        "material": "Rubber",
+        "color": "Red"
+      },
+      "variants": [
+        {
+          "id": 308,
+          "sku": "SW-GRIP-101-V1",
+          "ean": "5712000000008",
+          "price": 13.99,
+          "stock": 35
+        }
+      ],
+      "created_at": "2025-10-29T09:10:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
+    },
+    {
+      "id": 2009,
+      "sku": "SW-GRIPTAPE-101",
+      "name": "Hella Grip Classic Griptape",
+      "brand": "Hella Grip",
+      "description": "Durable silicon-carbide griptape with iconic logo print.",
       "categories": ["Grip Tape"],
-      "attributes": { "material": "Silicon Carbide", "length_mm": 580, "color": "Black" },
-      "variants": [{ "id": 12, "price": 9.99, "ean": "5710000000012", "stock": 60 }],
-      "has_slit": false
+      "price": 9.99,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/hella_grip_classic_tape_1.jpg"],
+      "attributes": {
+        "material": "Silicon Carbide",
+        "color": "Black/Yellow",
+        "width_mm": 150,
+        "length_mm": 580
+      },
+      "variants": [
+        {
+          "id": 309,
+          "sku": "SW-GRIPTAPE-101-V1",
+          "ean": "5712000000009",
+          "price": 9.99,
+          "stock": 55
+        }
+      ],
+      "created_at": "2025-10-26T08:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1013,
-      "sku": "SW-HEADSET-001",
-      "name": "Fasen Integrated Headset",
-      "brand": "Fasen",
-      "description": "Sealed bearings headset for smooth bar spins.",
-      "categories": ["Headsets"],
-      "attributes": { "material": "Aluminum", "type": "Integrated", "color": "Blue" },
-      "variants": [{ "id": 13, "price": 24.99, "ean": "5710000000013", "stock": 30 }],
-      "has_slit": false
+      "id": 2010,
+      "sku": "SW-PEG-101",
+      "name": "Proto Slider Pegs",
+      "brand": "Proto",
+      "description": "Durable aluminum pegs for grinding and tricks.",
+      "categories": ["Pegs"],
+      "price": 34.5,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/proto_slider_pegs_1.jpg"],
+      "attributes": {
+        "material": "Aluminum",
+        "color": "Silver",
+        "weight_g": 180
+      },
+      "variants": [
+        {
+          "id": 310,
+          "sku": "SW-PEG-101-V1",
+          "ean": "5712000000010",
+          "price": 34.5,
+          "stock": 25
+        }
+      ],
+      "created_at": "2025-10-30T10:15:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1014,
-      "sku": "SW-BRAKE-001",
+      "id": 2011,
+      "sku": "SW-BRAKE-101",
       "name": "Tilt Flex Fender Brake",
       "brand": "Tilt",
-      "description": "Durable steel fender brake fits most decks.",
+      "description": "Durable steel brake compatible with most Tilt decks.",
       "categories": ["Brakes"],
-      "attributes": { "material": "Steel", "weight_g": 120, "color": "Black" },
-      "variants": [{ "id": 14, "price": 19.50, "ean": "5710000000014", "stock": 22 }],
-      "has_slit": false
+      "price": 19.95,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/tilt_flex_fender_brake_1.jpg"],
+      "attributes": {
+        "material": "Steel",
+        "color": "Black",
+        "weight_g": 120
+      },
+      "variants": [
+        {
+          "id": 311,
+          "sku": "SW-BRAKE-101-V1",
+          "ean": "5712000000011",
+          "price": 19.95,
+          "stock": 22
+        }
+      ],
+      "created_at": "2025-10-31T09:15:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1015,
-      "sku": "SW-PEG-001",
-      "name": "Proto Scooter Pegs",
-      "brand": "Proto",
-      "description": "Lightweight pegs for grinding and tricks.",
-      "categories": ["Pegs"],
-      "attributes": { "material": "Aluminum", "length_mm": 50, "color": "Silver" },
-      "variants": [{ "id": 15, "price": 34.00, "ean": "5710000000015", "stock": 18 }],
-      "has_slit": false
+      "id": 2012,
+      "sku": "SW-HEADSET-101",
+      "name": "Fasen Integrated Headset",
+      "brand": "Fasen",
+      "description": "Sealed bearings headset for smoother bar spins.",
+      "categories": ["Headsets"],
+      "price": 24.99,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/fasen_integrated_headset_1.jpg"],
+      "attributes": {
+        "material": "Aluminum",
+        "color": "Blue",
+        "weight_g": 85
+      },
+      "variants": [
+        {
+          "id": 312,
+          "sku": "SW-HEADSET-101-V1",
+          "ean": "5712000000012",
+          "price": 24.99,
+          "stock": 30
+        }
+      ],
+      "created_at": "2025-10-29T11:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1016,
-      "sku": "SW-GRIP-002",
-      "name": "ODI Longneck Pro Grips",
-      "brand": "ODI",
-      "description": "Classic longneck design for superior control.",
-      "categories": ["Grips"],
-      "attributes": { "material": "Rubber", "length_mm": 165, "color": "Blue" },
-      "variants": [{ "id": 16, "price": 15.49, "ean": "5710000000016", "stock": 45 }],
-      "has_slit": false
+      "id": 2013,
+      "sku": "SW-HELMET-101",
+      "name": "TSG Evolution Helmet",
+      "brand": "TSG",
+      "description": "Durable ABS shell helmet with EPS foam for superior safety.",
+      "categories": ["Helmets", "Protective Gear"],
+      "price": 59.99,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/tsg_evolution_helmet_1.jpg"],
+      "attributes": {
+        "material": "ABS Shell",
+        "color": "Matte Black",
+        "size": "M",
+        "weight_g": 400
+      },
+      "variants": [
+        {
+          "id": 313,
+          "sku": "SW-HELMET-101-V1",
+          "ean": "5712000000013",
+          "price": 59.99,
+          "stock": 20
+        }
+      ],
+      "created_at": "2025-10-20T09:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1017,
-      "sku": "SW-WHEEL-003",
-      "name": "North Signal Wheels",
-      "brand": "North",
-      "description": "High-quality urethane with strong aluminum core.",
-      "categories": ["Wheels"],
-      "attributes": { "diameter_mm": 115, "core_material": "Aluminum", "color": "White" },
-      "variants": [{ "id": 17, "price": 94.00, "ean": "5710000000017", "stock": 14 }],
-      "has_slit": false
+      "id": 2014,
+      "sku": "SW-KNEEPAD-101",
+      "name": "TSG Force Knee Pads",
+      "brand": "TSG",
+      "description": "Heavy-duty knee pads for pro scooter and skate riders.",
+      "categories": ["Protective Gear"],
+      "price": 49.99,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/tsg_force_knee_pads_1.jpg"],
+      "attributes": {
+        "material": "EVA Foam + Nylon",
+        "color": "Black",
+        "size": "L"
+      },
+      "variants": [
+        {
+          "id": 314,
+          "sku": "SW-KNEEPAD-101-V1",
+          "ean": "5712000000014",
+          "price": 49.99,
+          "stock": 15
+        }
+      ],
+      "created_at": "2025-10-22T08:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1018,
-      "sku": "SW-DECK-003",
-      "name": "Tilt Theory 3 Deck",
-      "brand": "Tilt",
-      "description": "Street-oriented deck with boxed ends for stability.",
-      "categories": ["Decks"],
-      "attributes": { "material": "Aluminum", "width_mm": 152, "length_mm": 584, "color": "Raw" },
-      "variants": [{ "id": 18, "price": 229.99, "ean": "5710000000018", "stock": 7 }],
-      "has_slit": false
+      "id": 2015,
+      "sku": "SW-SCOOTER-101",
+      "name": "Striker Complete Scooter Lux Edition",
+      "brand": "Striker",
+      "description": "High-performance complete scooter built with Lux series parts.",
+      "categories": ["Complete Scooters"],
+      "price": 299.99,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/striker_complete_lux_1.jpg"],
+      "attributes": {
+        "deck_width_mm": 140,
+        "deck_length_mm": 530,
+        "wheel_diameter_mm": 110,
+        "weight_g": 3600,
+        "color": "Black/Gold"
+      },
+      "variants": [
+        {
+          "id": 315,
+          "sku": "SW-SCOOTER-101-V1",
+          "ean": "5712000000015",
+          "price": 299.99,
+          "stock": 12
+        }
+      ],
+      "created_at": "2025-10-18T10:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1019,
-      "sku": "SW-CLAMP-002",
-      "name": "Tilt SCS Clamp",
-      "brand": "Tilt",
-      "description": "Solid SCS clamp for compression systems.",
-      "categories": ["Clamps"],
-      "attributes": { "material": "Aluminum", "bolts": 4, "color": "Black" },
-      "variants": [{ "id": 19, "price": 49.95, "ean": "5710000000019", "stock": 10 }],
-      "has_slit": false
+      "id": 2016,
+      "sku": "SW-HOODIE-101",
+      "name": "ScootWorld Classic Hoodie",
+      "brand": "ScootWorld",
+      "description": "Comfortable cotton hoodie with ScootWorld logo print.",
+      "categories": ["Apparel"],
+      "price": 59.0,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/scootworld_classic_hoodie_1.jpg"],
+      "attributes": {
+        "material": "Cotton",
+        "color": "Grey",
+        "size": "L"
+      },
+      "variants": [
+        {
+          "id": 316,
+          "sku": "SW-HOODIE-101-V1",
+          "ean": "5712000000016",
+          "price": 59.0,
+          "stock": 25
+        }
+      ],
+      "created_at": "2025-10-15T11:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1020,
-      "sku": "SW-FORK-003",
-      "name": "North Amber Fork",
-      "brand": "North",
-      "description": "Lightweight CNC aluminum fork with HIC compatibility.",
-      "categories": ["Forks"],
-      "attributes": { "material": "Aluminum", "wheel_size_mm": 120, "color": "Gold" },
-      "variants": [{ "id": 20, "price": 84.95, "ean": "5710000000020", "stock": 9 }],
-      "has_slit": false
+      "id": 2017,
+      "sku": "SW-T-SHIRT-101",
+      "name": "ScootWorld Rider Tee",
+      "brand": "ScootWorld",
+      "description": "Lightweight cotton t-shirt with bold rider graphic.",
+      "categories": ["Apparel"],
+      "price": 29.0,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/scootworld_rider_tee_1.jpg"],
+      "attributes": {
+        "material": "Cotton",
+        "color": "White",
+        "size": "M"
+      },
+      "variants": [
+        {
+          "id": 317,
+          "sku": "SW-T-SHIRT-101-V1",
+          "ean": "5712000000017",
+          "price": 29.0,
+          "stock": 40
+        }
+      ],
+      "created_at": "2025-10-14T08:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1021,
-      "sku": "SW-BAR-003",
-      "name": "Ethic Dynasty Bar",
-      "brand": "Ethic",
-      "description": "Steel T-bar for park and street riders.",
-      "categories": ["Bars"],
-      "attributes": { "material": "Steel", "outer_diameter_mm": 32, "color": "Chrome" },
-      "variants": [{ "id": 21, "price": 54.99, "ean": "5710000000021", "stock": 13 }],
-      "has_slit": false
-    },
-    {
-      "id": 1022,
-      "sku": "SW-GRIPTAPE-002",
-      "name": "Hella Grip Classic Tape",
-      "brand": "Hella Grip",
-      "description": "Durable grip tape with classic logo design.",
-      "categories": ["Grip Tape"],
-      "attributes": { "material": "Silicon Carbide", "length_mm": 600, "color": "Black/Yellow" },
-      "variants": [{ "id": 22, "price": 10.50, "ean": "5710000000022", "stock": 55 }],
-      "has_slit": false
-    },
-    {
-      "id": 1023,
-      "sku": "SW-BEARING-002",
-      "name": "Root Industries Ceramic Bearings",
+      "id": 2018,
+      "sku": "SW-GLOVES-101",
+      "name": "Root Riding Gloves",
       "brand": "Root Industries",
-      "description": "Top-tier ceramic bearings for unmatched smoothness.",
-      "categories": ["Bearings"],
-      "attributes": { "grade": "Ceramic", "material": "Ceramic", "color": "White" },
-      "variants": [{ "id": 23, "price": 29.99, "ean": "5710000000023", "stock": 28 }],
-      "has_slit": false
+      "description": "Breathable riding gloves with anti-slip grip for better control.",
+      "categories": ["Accessories"],
+      "price": 24.99,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/root_riding_gloves_1.jpg"],
+      "attributes": {
+        "material": "Synthetic Leather",
+        "color": "Black/Red",
+        "size": "M"
+      },
+      "variants": [
+        {
+          "id": 318,
+          "sku": "SW-GLOVES-101-V1",
+          "ean": "5712000000018",
+          "price": 24.99,
+          "stock": 18
+        }
+      ],
+      "created_at": "2025-10-19T08:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     },
     {
-      "id": 1024,
-      "sku": "SW-GRIP-003",
+      "id": 2019,
+      "sku": "SW-BACKPACK-101",
+      "name": "Ethic Scooter Backpack",
+      "brand": "Ethic",
+      "description": "Durable backpack with scooter strap system.",
+      "categories": ["Accessories"],
+      "price": 79.99,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/ethic_scooter_backpack_1.jpg"],
+      "attributes": {
+        "material": "Nylon",
+        "color": "Black",
+        "capacity_l": 25
+      },
+      "variants": [
+        {
+          "id": 319,
+          "sku": "SW-BACKPACK-101-V1",
+          "ean": "5712000000019",
+          "price": 79.99,
+          "stock": 12
+        }
+      ],
+      "created_at": "2025-10-16T09:00:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
+    },
+    {
+      "id": 2020,
+      "sku": "SW-GRIP-102",
       "name": "Fasen Pro Grips",
       "brand": "Fasen",
       "description": "Soft ergonomic grips for enhanced comfort.",
       "categories": ["Grips"],
-      "attributes": { "material": "Rubber", "length_mm": 155, "color": "Green" },
-      "variants": [{ "id": 24, "price": 13.99, "ean": "5710000000024", "stock": 35 }],
-      "has_slit": false
+      "price": 13.99,
+      "currency": "EUR",
+      "images": ["https://cdn.scootworld.com/images/fasen_pro_grips_1.jpg"],
+      "attributes": {
+        "material": "Rubber",
+        "color": "Green"
+      },
+      "variants": [
+        {
+          "id": 320,
+          "sku": "SW-GRIP-102-V1",
+          "ean": "5712000000020",
+          "price": 13.99,
+          "stock": 25
+        }
+      ],
+      "created_at": "2025-10-27T07:30:00.000Z",
+      "updated_at": "2025-11-04T10:20:00.000Z",
+      "source": "Traede"
     }
   ]
 }

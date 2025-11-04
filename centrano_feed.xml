@@ -53,23 +53,6 @@
   </product>
 
   <product>
-    <sku>SW-FORK-002</sku>
-    <brand>Ethic</brand>
-    <name>Ethic Legion Fork</name>
-    <description>Light and durable steel fork suitable for SCS compression</description>
-    <price>59.95</price>
-    <attributes>
-      <material>Steel</material>
-      <axle_diameter_mm>8</axle_diameter_mm>
-      <compression_type>SCS</compression_type>
-      <weight_g>400</weight_g>
-      <wheel_size_mm>125</wheel_size_mm>
-      <color>Chrome</color>
-    </attributes>
-    <slit>false</slit>
-  </product>
-
-  <product>
     <sku>SW-DECK-001</sku>
     <brand>North</brand>
     <name>North Horizon Deck</name>
@@ -82,23 +65,6 @@
       <headtube_angle_deg>83</headtube_angle_deg>
       <material>Aluminum</material>
       <color>Black</color>
-    </attributes>
-    <slit>false</slit>
-  </product>
-
-  <product>
-    <sku>SW-DECK-002</sku>
-    <brand>North</brand>
-    <name>North Switchblade Deck</name>
-    <description>Durable deck for park and hybrid riders</description>
-    <price>179.00</price>
-    <attributes>
-      <length_mm>530</length_mm>
-      <width_mm>125</width_mm>
-      <weight_g>1600</weight_g>
-      <headtube_angle_deg>83</headtube_angle_deg>
-      <material>Aluminum</material>
-      <color>Blue</color>
     </attributes>
     <slit>false</slit>
   </product>
@@ -121,77 +87,159 @@
   </product>
 
   <product>
-    <sku>SW-WHEEL-002</sku>
-    <brand>Envy</brand>
-    <name>Envy Hollow Core Wheels</name>
-    <description>Strong hollow-core design with stylish finish</description>
-    <price>89.00</price>
+    <sku>SW-FORK-003</sku>
+    <brand>Ethic</brand>
+    <name>Ethic Legion Fork V2</name>
+    <description>Refined steel fork compatible with both SCS and HIC compression</description>
+    <price>64.95</price>
     <attributes>
-      <diameter_mm>120</diameter_mm>
-      <width_mm>26</width_mm>
-      <core_material>Aluminum</core_material>
-      <bearing>ABEC-11</bearing>
-      <weight_g>230</weight_g>
-      <color>Oil Slick</color>
+      <material>Steel</material>
+      <axle_diameter_mm>8</axle_diameter_mm>
+      <compression_type>SCS/HIC</compression_type>
+      <weight_g>390</weight_g>
+      <wheel_size_mm>120</wheel_size_mm>
+      <color>Chrome</color>
     </attributes>
     <slit>false</slit>
   </product>
 
   <product>
-    <sku>SW-CLAMP-001</sku>
-    <brand>Ethic</brand>
-    <name>Ethic DTC Clamp</name>
-    <description>Triple bolt aluminum clamp suitable for oversized bars</description>
-    <price>29.00</price>
+    <sku>SW-CLAMP-002</sku>
+    <brand>Tilt</brand>
+    <name>Tilt SCS Clamp</name>
+    <description>Precision machined SCS clamp for pro scooters</description>
+    <price>49.95</price>
     <attributes>
-      <bolts>3</bolts>
+      <bolts>4</bolts>
       <bar_compatibility>Oversized</bar_compatibility>
       <material>Aluminum</material>
-      <color>Silver</color>
+      <color>Black</color>
     </attributes>
     <slit>false</slit>
   </product>
 
   <product>
-    <sku>SW-GRIP-001</sku>
+    <sku>SW-DECK-003</sku>
+    <brand>Tilt</brand>
+    <name>Tilt Theory Deck</name>
+    <description>Boxed-end deck designed for street tricks</description>
+    <price>229.99</price>
+    <attributes>
+      <length_mm>584</length_mm>
+      <width_mm>152</width_mm>
+      <weight_g>2000</weight_g>
+      <headtube_angle_deg>83</headtube_angle_deg>
+      <material>Aluminum</material>
+      <color>Raw</color>
+    </attributes>
+    <slit>false</slit>
+  </product>
+
+  <product>
+    <sku>SW-WHEEL-003</sku>
+    <brand>North</brand>
+    <name>North Signal Wheels</name>
+    <description>Strong aluminum core wheels with soft urethane</description>
+    <price>94.00</price>
+    <attributes>
+      <diameter_mm>115</diameter_mm>
+      <width_mm>24</width_mm>
+      <core_material>Aluminum</core_material>
+      <bearing>ABEC-9</bearing>
+      <weight_g>235</weight_g>
+      <color>White</color>
+    </attributes>
+    <slit>false</slit>
+  </product>
+
+  <product>
+    <sku>SW-GRIP-002</sku>
     <brand>ODI</brand>
-    <name>ODI Soft Grips</name>
-    <description>Comfortable and shock-absorbing scooter grips</description>
-    <price>14.99</price>
+    <name>ODI Longneck Pro Grips</name>
+    <description>Classic longneck design for improved control</description>
+    <price>15.49</price>
     <attributes>
       <length_mm>160</length_mm>
       <material>Rubber</material>
-      <color>Red</color>
+      <color>Blue</color>
     </attributes>
     <slit>false</slit>
   </product>
 
   <product>
-    <sku>SW-BEARING-001</sku>
-    <brand>Envy</brand>
-    <name>Envy ABEC-9 Bearings</name>
-    <description>High-speed precision bearings with spacers</description>
-    <price>19.99</price>
-    <attributes>
-      <grade>ABEC-9</grade>
-      <material>Steel</material>
-      <color>Silver</color>
-      <weight_g>60</weight_g>
-    </attributes>
-    <slit>false</slit>
-  </product>
-
-  <product>
-    <sku>SW-GRIPTAPE-001</sku>
+    <sku>SW-BEARING-002</sku>
     <brand>Root Industries</brand>
-    <name>Root Grip Tape</name>
-    <description>Durable grip tape with strong adhesive backing</description>
-    <price>9.99</price>
+    <name>Root Ceramic Bearings</name>
+    <description>High-end ceramic bearings for speed and durability</description>
+    <price>29.99</price>
+    <attributes>
+      <grade>ABEC-11</grade>
+      <material>Ceramic</material>
+      <color>White</color>
+      <weight_g>55</weight_g>
+    </attributes>
+    <slit>false</slit>
+  </product>
+
+  <product>
+    <sku>SW-GRIPTAPE-002</sku>
+    <brand>Hella Grip</brand>
+    <name>Hella Grip Classic Tape</name>
+    <description>Premium silicon-carbide grip tape with yellow print</description>
+    <price>10.50</price>
     <attributes>
       <length_mm>580</length_mm>
       <width_mm>150</width_mm>
-      <color>Black</color>
+      <color>Black/Yellow</color>
       <material>Silicon Carbide</material>
+    </attributes>
+    <slit>false</slit>
+  </product>
+
+  <product>
+    <sku>SW-BAR-004</sku>
+    <brand>Affinity</brand>
+    <name>Affinity XL T-Bar</name>
+    <description>Oversized steel T-bar for riders demanding strength</description>
+    <price>79.00</price>
+    <attributes>
+      <material>Steel</material>
+      <outer_diameter_mm>35</outer_diameter_mm>
+      <inner_diameter_mm>32</inner_diameter_mm>
+      <weight_g>1200</weight_g>
+      <clamp_size>Oversized</clamp_size>
+      <compression_type>SCS</compression_type>
+      <color>Chrome</color>
+    </attributes>
+    <slit>false</slit>
+  </product>
+
+  <product>
+    <sku>SW-PEG-001</sku>
+    <brand>Proto</brand>
+    <name>Proto Slider Pegs</name>
+    <description>Durable aluminum pegs perfect for grinding tricks</description>
+    <price>34.50</price>
+    <attributes>
+      <material>Aluminum</material>
+      <length_mm>50</length_mm>
+      <diameter_mm>25</diameter_mm>
+      <weight_g>180</weight_g>
+      <color>Silver</color>
+    </attributes>
+    <slit>false</slit>
+  </product>
+
+  <product>
+    <sku>SW-BRAKE-001</sku>
+    <brand>Tilt</brand>
+    <name>Tilt Flex Fender Brake</name>
+    <description>Durable steel fender brake for Tilt decks</description>
+    <price>19.50</price>
+    <attributes>
+      <material>Steel</material>
+      <weight_g>120</weight_g>
+      <color>Black</color>
     </attributes>
     <slit>false</slit>
   </product>

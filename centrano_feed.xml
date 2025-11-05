@@ -1,6 +1,6 @@
 <products>
   <product>
-    <sku>SW-BAR-001</sku>
+    <sku>SW-BAR-101</sku>
     <brand>Striker</brand>
     <name>Striker Lux Scooter Bar</name>
     <description>Lightweight aluminum scooter bar for pro riders</description>
@@ -18,7 +18,7 @@
   </product>
 
   <product>
-    <sku>SW-BAR-002</sku>
+    <sku>SW-BAR-102</sku>
     <brand>Striker</brand>
     <name>Striker Titanium Bar</name>
     <description>Ultra-light titanium bar with polished finish</description>
@@ -36,7 +36,7 @@
   </product>
 
   <product>
-    <sku>SW-FORK-001</sku>
+    <sku>SW-FORK-101</sku>
     <brand>Root Industries</brand>
     <name>Root AIR Fork</name>
     <description>Forged aluminum fork designed for IHC compression systems</description>
@@ -53,7 +53,7 @@
   </product>
 
   <product>
-    <sku>SW-DECK-001</sku>
+    <sku>SW-DECK-101</sku>
     <brand>North</brand>
     <name>North Horizon Deck</name>
     <description>Wide lightweight deck ideal for street riding</description>
@@ -70,7 +70,7 @@
   </product>
 
   <product>
-    <sku>SW-WHEEL-001</sku>
+    <sku>SW-WHEEL-101</sku>
     <brand>River</brand>
     <name>River Glide Wheels</name>
     <description>High rebound urethane wheels for smooth ride</description>
@@ -87,7 +87,7 @@
   </product>
 
   <product>
-    <sku>SW-FORK-003</sku>
+    <sku>SW-FORK-103</sku>
     <brand>Ethic</brand>
     <name>Ethic Legion Fork V2</name>
     <description>Refined steel fork compatible with both SCS and HIC compression</description>
@@ -104,7 +104,7 @@
   </product>
 
   <product>
-    <sku>SW-CLAMP-002</sku>
+    <sku>SW-CLAMP-102</sku>
     <brand>Tilt</brand>
     <name>Tilt SCS Clamp</name>
     <description>Precision machined SCS clamp for pro scooters</description>
@@ -119,7 +119,7 @@
   </product>
 
   <product>
-    <sku>SW-DECK-003</sku>
+    <sku>SW-DECK-103</sku>
     <brand>Tilt</brand>
     <name>Tilt Theory Deck</name>
     <description>Boxed-end deck designed for street tricks</description>
@@ -136,7 +136,7 @@
   </product>
 
   <product>
-    <sku>SW-WHEEL-003</sku>
+    <sku>SW-WHEEL-103</sku>
     <brand>North</brand>
     <name>North Signal Wheels</name>
     <description>Strong aluminum core wheels with soft urethane</description>
@@ -153,7 +153,7 @@
   </product>
 
   <product>
-    <sku>SW-GRIP-002</sku>
+    <sku>SW-GRIP-102</sku>
     <brand>ODI</brand>
     <name>ODI Longneck Pro Grips</name>
     <description>Classic longneck design for improved control</description>
@@ -167,7 +167,7 @@
   </product>
 
   <product>
-    <sku>SW-BEARING-002</sku>
+    <sku>SW-BEARING-102</sku>
     <brand>Root Industries</brand>
     <name>Root Ceramic Bearings</name>
     <description>High-end ceramic bearings for speed and durability</description>
@@ -182,7 +182,7 @@
   </product>
 
   <product>
-    <sku>SW-GRIPTAPE-002</sku>
+    <sku>SW-GRIPTAPE-102</sku>
     <brand>Hella Grip</brand>
     <name>Hella Grip Classic Tape</name>
     <description>Premium silicon-carbide grip tape with yellow print</description>
@@ -197,7 +197,7 @@
   </product>
 
   <product>
-    <sku>SW-BAR-004</sku>
+    <sku>SW-BAR-104</sku>
     <brand>Affinity</brand>
     <name>Affinity XL T-Bar</name>
     <description>Oversized steel T-bar for riders demanding strength</description>
@@ -215,7 +215,7 @@
   </product>
 
   <product>
-    <sku>SW-PEG-001</sku>
+    <sku>SW-PEG-101</sku>
     <brand>Proto</brand>
     <name>Proto Slider Pegs</name>
     <description>Durable aluminum pegs perfect for grinding tricks</description>
@@ -231,7 +231,7 @@
   </product>
 
   <product>
-    <sku>SW-BRAKE-001</sku>
+    <sku>SW-BRAKE-101</sku>
     <brand>Tilt</brand>
     <name>Tilt Flex Fender Brake</name>
     <description>Durable steel fender brake for Tilt decks</description>
@@ -244,3 +244,4 @@
     <slit>false</slit>
   </product>
 </products>
+
